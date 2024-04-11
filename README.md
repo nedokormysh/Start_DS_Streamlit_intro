@@ -18,7 +18,7 @@
 
 ### Файлы
 - app.py: streamlit app
-- train.csv, test.csv: файлы с данными
+- train.csv, test.csv, sample_submission.csv: файлы с данными
 - requirements.txt: необходимые пакеты для работы приложения
 
 ### Автор 
